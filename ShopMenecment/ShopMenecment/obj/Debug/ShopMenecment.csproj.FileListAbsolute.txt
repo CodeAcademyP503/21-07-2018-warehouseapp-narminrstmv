@@ -1,0 +1,14 @@
+c:\users\nermin.rustemova\Source\Repos\ShopMenecment\ShopMenecment\bin\Debug\ShopMenecment.exe.config
+c:\users\nermin.rustemova\Source\Repos\ShopMenecment\ShopMenecment\bin\Debug\ShopMenecment.exe
+c:\users\nermin.rustemova\Source\Repos\ShopMenecment\ShopMenecment\bin\Debug\ShopMenecment.pdb
+c:\users\nermin.rustemova\Source\Repos\ShopMenecment\ShopMenecment\obj\Debug\ShopMenecment.csprojResolveAssemblyReference.cache
+c:\users\nermin.rustemova\Source\Repos\ShopMenecment\ShopMenecment\obj\Debug\ShopMenecment.Properties.Resources.resources
+c:\users\nermin.rustemova\Source\Repos\ShopMenecment\ShopMenecment\obj\Debug\ShopMenecment.csproj.GenerateResource.cache
+c:\users\nermin.rustemova\Source\Repos\ShopMenecment\ShopMenecment\obj\Debug\ShopMenecment.csproj.CoreCompileInputs.cache
+c:\users\nermin.rustemova\Source\Repos\ShopMenecment\ShopMenecment\obj\Debug\ShopMenecment.exe
+c:\users\nermin.rustemova\Source\Repos\ShopMenecment\ShopMenecment\obj\Debug\ShopMenecment.pdb
+c:\users\nermin.rustemova\Source\Repos\ShopMenecment\ShopMenecment\obj\Debug\ShopMenecment.AdminForm.resources
+c:\users\nermin.rustemova\Source\Repos\ShopMenecment\ShopMenecment\obj\Debug\ShopMenecment.MenecerForm.resources
+c:\users\nermin.rustemova\Source\Repos\ShopMenecment\ShopMenecment\obj\Debug\ShopMenecment.LoginForm.resources
+C:\Users\nermin.rustemova\Source\Repos\ShopMenecment\ShopMenecment\obj\Debug\ShopMenecment.Xutor1.resources
+C:\Users\nermin.rustemova\Source\Repos\ShopMenecment\ShopMenecment\obj\Debug\ShopMenecment.Mehdiabad2.resources
